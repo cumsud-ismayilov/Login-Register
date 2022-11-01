@@ -1,0 +1,52 @@
+*{ box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+#Register{  width: 400px;
+    height: 600px;
+    background-color: white;
+    padding: 20px;
+    margin: 100px auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 0px gray;
+
+
+}
+form input{
+    width: 100%;
+    padding: 10px;
+    outline: none;
+   border-radius: 10px;
+       
+      
+   
+}
+label{  margin: 10px 0px;
+    display: block;
+    font-size: 20px;
+  text-transform: capitalize;
+  
+}
+h4{ font-weight: 400;
+ font-size: 30px;
+}
+button{  width: 100%;
+margin: 9px 0px;
+height: 30px;
+color: black;
+background-color: goldenrod;
+}
+
+.class1 a,p{
+    display: inline;
+    margin: 1px;
+}
+.class2 p,a{
+    display: inline;
+    margin: 1px;
+}
+.class3 p,a{
+    display: inline;
+    margin: 1px;
+}
